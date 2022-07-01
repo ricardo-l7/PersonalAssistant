@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-assistant"]=this["webpackJsonppersonal-assistant"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var s=t(0),a=t.n(s),r=t(2),o=function(){return a.a.createElement("div",null,"Beep boop. Hi there, I'm your personal assistant :D")};t.n(r).a.render(a.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.c8ddb882.chunk.js.map
